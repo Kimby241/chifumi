@@ -5,7 +5,7 @@
 
 Pour commencer à jouer:
 
-```./chifumi -v (version (3 ou 5)) -e (nombre de manche (nombre impaire))
+***./chifumi -v (version (3 ou 5)) -e (nombre de manche (nombre impaire))***
 
 
 **Règles du jeu:**
